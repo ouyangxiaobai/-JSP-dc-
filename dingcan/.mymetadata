@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="dingcan"
+  id="myeclipse.1495105121066"
+  context-root="/dingcan"
+  j2ee-spec="5.0"
+  archive="dingcan.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
